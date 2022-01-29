@@ -61,8 +61,9 @@ Zadania domowe to w większości kamienie milowe związane z projektem. Wszystki
 
 # Literatura
 
+
 [1]
-“A Bayesian Hierarchical Topic Model for Political Texts: Measuring Expressed Agendas in Senate Press Releases | Political Analysis | Cambridge Core.” [https://www.cambridge.org/core/journals/political-analysis/article/bayesian-hierarchical-topic-model-for-political-texts-measuring-expressed-agendas-in-senate-press-releases/74F30D05C220DB198F21FF5127EB7205](https://www.cambridge.org/core/journals/political-analysis/article/bayesian-hierarchical-topic-model-for-political-texts-measuring-expressed-agendas-in-senate-press-releases/74F30D05C220DB198F21FF5127EB7205) (accessed Jan. 29, 2022).
+J. Grimmer, “A Bayesian Hierarchical Topic Model for Political Texts: Measuring Expressed Agendas in Senate Press Releases,” Political Analysis, vol. 18, no. 1, pp. 1–35, ed 2010, doi: 10.1093/pan/mpp034.
 
 [2]
 N. Egami, C. J. Fong, J. Grimmer, M. E. Roberts, and B. M. Stewart, “How to Make Causal Inferences Using Texts,” *arXiv:1802.02163 [cs, stat]*, Feb. 2018, Accessed: Jan. 26, 2022. [Online]. Available: [http://arxiv.org/abs/1802.02163](http://arxiv.org/abs/1802.02163)
