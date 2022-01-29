@@ -84,3 +84,7 @@ M. E. Roberts, D. Tingley, B. M. Stewart, and E. M. Airoldi, “The Structural T
 
 [8]
 J. Grimmer, M. E. Roberts, and B. M. Stewart, “Machine Learning for Social Science: An Agnostic Approach,” *Annual Review of Political Science*, vol. 24, no. 1, pp. 395–419, 2021, doi: [10.1146/annurev-polisci-053119-015921](https://doi.org/10.1146/annurev-polisci-053119-015921).
+
+[9]
+P. H. Luz De Araujo, T. De Campos, and filo, “Topic Modelling Brazilian Supreme Court Lawsuits,” Legal Knowledge and Information Systems, pp. 113–122, 2020, doi: 10.3233/FAIA200855.
+
