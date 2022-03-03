@@ -8,12 +8,12 @@ Celem grupy warsztatowej jest zapoznanie studentów z technikami przetwarzania j
 | Temat zajęć | PD/KM | Punkty |
 | --- | --- | --- |
 | 1. NLP i nauki społeczne, wprowadzenie w tematy (przegląd przykładowe prac i danych). |  |  |
-|  2. Preprocessing języka: tokenizacja, lematyzacja, stemming.  | Start PD1. |  |
-| 3. Eksploracja danych tekstowych.  |  |  |
-| 3. Omówienie PD1. | PD1 oddanie.  | 9 |
+| 2. Omówienie tematów projektów.  |  |  |
+| 3. Preprocessing języka. Eksploracja danych tekstowych.  | Start PD1. |  |
 | 4. Pozyskiwanie danych. Web scrapping, ekstrakcja treści artykułów, RSS.  |  |  |
-| 6. Omówienie KM1 projektu. | KM1 oddanie | 9 |
-| 7. Modelowanie tematów (topic modeling). |  |  |
+| 5. Omówienie PD1. | PD1 oddanie.  | 9 |
+| 6. Modelowanie tematów (topic modeling). |  |  |
+| 7. Omówienie KM1 projektu. | KM1 oddanie | 9 |
 | 8. Zanurzenia słów (words embeddings). Określanie optymalnej liczby tematów. |  |  |
 | 9. Omówienie KM2 projektu. | KM2 Oddanie | 9 |
 | 10. Structural topic modeling / Dynamic topic modeling.  |  |  |
